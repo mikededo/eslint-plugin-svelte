@@ -1,5 +1,13 @@
 # eslint-plugin-svelte
 
+## 3.0.0-next.13
+
+### Patch Changes
+
+- [#1009](https://github.com/sveltejs/eslint-plugin-svelte/pull/1009) [`a003664`](https://github.com/sveltejs/eslint-plugin-svelte/commit/a0036643b5451f0423cd61dafd092c39bd6f4bcb) Thanks [@baseballyama](https://github.com/baseballyama)! - chore: upgrade `svelte-eslint-parser` to `1.0.0-next.8`
+
+- [#1007](https://github.com/sveltejs/eslint-plugin-svelte/pull/1007) [`8e9199a`](https://github.com/sveltejs/eslint-plugin-svelte/commit/8e9199ae326110778e4b0557616d394c6ac5e847) Thanks [@baseballyama](https://github.com/baseballyama)! - fix: update method for extracting major version
+
 ## 3.0.0-next.12
 
 ### Patch Changes
